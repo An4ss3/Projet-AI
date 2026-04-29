@@ -1,0 +1,35 @@
+# Prédiction des Tendances Boursières par NLP et Deep Learning
+# ENSA de Fès — Module DL & NLP — A.U. 2025/2026
+
+# Data
+pandas==2.2.2
+numpy==2.0.2
+yfinance
+kaggle
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP
+transformers==5.0.0
+torch
+
+# Scraping & News
+gnews==0.4.3
+feedparser
+
+# Technical Analysis
+ta==0.11.0
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+nltk
+datasets
